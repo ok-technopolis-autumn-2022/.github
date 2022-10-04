@@ -3,7 +3,7 @@
 ## Задача курса:
 В рамках курса созается todo-приложение, используя следующий [дизайн](https://github.com/ok-technopolis-autumn-2022/todo-app-design).
 
-[![N|Solid](https://raw.githubusercontent.com/ok-technopolis-autumn-2022/todo-app-design/master/todo.png?token=GHSAT0AAAAAABX6WEN74YU37H5O235IMKR4YZ37ORQ)](https://raw.githubusercontent.com/ok-technopolis-autumn-2022/todo-app-design/master/todo.png?token=GHSAT0AAAAAABX6WEN74YU37H5O235IMKR4YZ37ORQ)
+[![N|Solid](https://github.com/ok-technopolis-autumn-2022/todo-app-design/blob/master/todo.png?raw=true)](https://github.com/ok-technopolis-autumn-2022/todo-app-design/blob/master/todo.png?raw=true)
 
 ## Домашние задания:
 ### №1. HTML-скелет (До 02.10):
